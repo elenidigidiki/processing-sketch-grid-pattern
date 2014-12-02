@@ -1,4 +1,4 @@
 processing-grid-pattern
 =======================
 
-Grid Pattern Processing Sketch
+Source code for my processing sketch GridPattern
